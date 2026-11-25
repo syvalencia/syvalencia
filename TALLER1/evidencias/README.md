@@ -1,0 +1,1 @@
+Agrega aqui las tres capturas reales requeridas por el taller: codigo y prototipos, compilacion con GCC y ejecucion con una actualizacion del Top 3.
